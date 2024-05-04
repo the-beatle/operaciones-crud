@@ -27,3 +27,8 @@ Documentación
 - https://web.dev/articles/critical-rendering-path/render-tree-construction
 - https://zellwk.com/blog/dom-traversals/
 - https://css-tricks.com/dom/
+- https://getbootstrap.com/docs/4.1/getting-started/introduction/
+- https://es.javascript.info/script-async-defer
+
+- Questions and Answers?
+----------------------

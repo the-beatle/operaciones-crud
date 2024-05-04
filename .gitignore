@@ -132,3 +132,5 @@ dist
 .idea/vcs.xml
 
 .idea/workspace.xml
+
+.idea/inspectionProfiles/Project_Default.xml
