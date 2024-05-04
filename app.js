@@ -10,7 +10,6 @@ function deletePet(event) {
     event.target.parentElement.parentElement.remove()
     const id = findId(event);
     pets = pets.filter(pet => pet.id !== parseInt(id));
-    console.log(pets)
 }
 
 function createPetStringTemplate(pet) {
@@ -37,6 +36,5 @@ form.addEventListener("submit", (event) => {
     pets.push(pet)
     const petList = document.getElementById("pet-list");
     petList.innerHTML+= createPetStringTemplate(pet);
-
     form.reset();
 });
